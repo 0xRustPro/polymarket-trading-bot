@@ -376,3 +376,5 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 ---
 
 **Support:** For questions, issues, or contributions, please open an issue on GitHub or contact the maintainers.
+
+contact: https://t.me/Rust0x_726
